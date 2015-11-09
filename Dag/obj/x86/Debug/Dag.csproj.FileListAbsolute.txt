@@ -1,0 +1,9 @@
+D:\Documenten\C#\Dag\Dag\bin\Debug\Dag.exe
+D:\Documenten\C#\Dag\Dag\bin\Debug\Dag.pdb
+D:\Documenten\C#\Dag\Dag\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documenten\C#\Dag\Dag\obj\x86\Debug\Dag.Form1.resources
+D:\Documenten\C#\Dag\Dag\obj\x86\Debug\Dag.Properties.Resources.resources
+D:\Documenten\C#\Dag\Dag\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documenten\C#\Dag\Dag\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documenten\C#\Dag\Dag\obj\x86\Debug\Dag.exe
+D:\Documenten\C#\Dag\Dag\obj\x86\Debug\Dag.pdb
